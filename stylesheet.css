@@ -1,18 +1,20 @@
 .fullpage {
     text-align: center;
-    color:#7e6798
+    background-color:#7e6798
   }
 
 .boldText{
   font-weight: 300;
   font:bold;
   font-size: large;
+  font-family: cursive;
 }
 
 .bodyText{
   font-style: italic;
   font:caption;
   color:aliceblue;
+  font-family: 'Times New Roman', Times, serif;
 }
   
   .Crochet-logo {
