@@ -16,17 +16,25 @@
   color:aliceblue;
   font-family: 'Times New Roman', Times, serif;
 }
+
+#Item1 {
+  color:red;
+}
+#Item2 {
+  color:orange;
+}
+#Item3 {
+  color:yellow;
+}
+#Item4 {
+  color:green;
+}
   
   .Crochet-logo {
     height: 40vmin;
     pointer-events: none;
   }
   
-  @media (prefers-reduced-motion: no-preference) {
-    .Crochet-logo {
-      animation: App-logo-spin infinite 20s linear;
-    }
-  }
   
   .Crochet-header {
     background-color: #7e6798;
@@ -39,6 +47,6 @@
     color: white;
   }
   
-  .Crochet-link {
+  .mylink {
     color: #61dafb;
   }
