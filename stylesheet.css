@@ -1,6 +1,19 @@
-.Crochet {
+.fullpage {
     text-align: center;
+    color:#7e6798
   }
+
+.boldText{
+  font-weight: 300;
+  font:bold;
+  font-size: large;
+}
+
+.bodyText{
+  font-style: italic;
+  font:caption;
+  color:aliceblue;
+}
   
   .Crochet-logo {
     height: 40vmin;
