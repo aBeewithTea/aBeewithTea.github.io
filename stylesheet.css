@@ -19,6 +19,10 @@
   font-family: 'Times New Roman', Times, serif;
 }
 
+a:hover{
+  color: red;
+}
+
 #Item1 {
   color:red;
 }
