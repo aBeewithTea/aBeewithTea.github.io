@@ -20,7 +20,7 @@
 }
 
 a:hover{
-  color: red;
+  color: #61dafb;
 }
 
 #Item1 {
@@ -53,7 +53,3 @@ a:hover{
     color: white;
   }
   
-  .mylink {
-    color: #61dafb;
-    
-  }
